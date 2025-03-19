@@ -13,12 +13,10 @@ const Footer = () => {
             <Link to="/Projects" className="footer-link">
               Projects
             </Link> */}
-            <p>Contact</p>
             <p>🖃 katerynasalata8@gmail.com</p>
             <a href="#">Linkedin</a>
         </div>
-        <span className="copyright">Copyright © 2025 Kateryna Salata</span>
-      </footer>
+</footer>
     </>
   );
 };
